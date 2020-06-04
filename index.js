@@ -3,9 +3,9 @@
 // randomNumber1 = randomNumber1 * 6;
 // randomNumber1 = Math.floor(randomNumber1) + 1;
 
-var images = ["/Users/avishpuri/Desktop/Development Learning /Dicee Challenge - Starting Files/images/dice1.png" , "/Users/avishpuri/Desktop/Development Learning /Dicee Challenge - Starting Files/images/dice2.png"
-, "/Users/avishpuri/Desktop/Development Learning /Dicee Challenge - Starting Files/images/dice3.png" , "/Users/avishpuri/Desktop/Development Learning /Dicee Challenge - Starting Files/images/dice4.png" ,
-"/Users/avishpuri/Desktop/Development Learning /Dicee Challenge - Starting Files/images/dice5.png" , "/Users/avishpuri/Desktop/Development Learning /Dicee Challenge - Starting Files/images/dice6.png"]
+var images = ["images/dice1.png" , "images/dice2.png"
+, "images/dice3.png" , "images/dice4.png" ,
+"images/dice5.png" , "images/dice6.png"]
 
 // var numberOfImages = images.length; = To Get the length of in the array i.e number of images = 6
 //   var randomImagePosition = Math.floor(Math.random()*numberOfImages); = multiplying 6 with random number and to not get decimal rounding off
